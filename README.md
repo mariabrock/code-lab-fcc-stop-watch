@@ -23,7 +23,8 @@ This is a code along of the FreeCodeCamp/Code Lab YouTube tutorial on basic DOM 
 Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
-- See 
+- See hover states for play, reset, and pause buttons
+- utilize timer count
 
 ### Screenshot
 
@@ -34,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/mariabrock/code-lab-to-do-list)
+- Solution URL: [Github](https://github.com/mariabrock/code-lab-fcc-stop-watch)
 - Live Site URL: [Github Pages](https://mariabrock.github.io/code-lab-to-do-list/)
 
 ## My process
